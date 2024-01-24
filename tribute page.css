@@ -1,0 +1,25 @@
+aside{
+
+    width: 170px;
+    }
+main{
+    position:relative;
+    top:-450px;
+    left: 200px;
+    box-sizing: border-box;
+}
+
+footer{
+    
+    position:relative;
+    top:-420px;
+}
+header{
+    text-align: center;
+    font-size:25px;}
+img.center{
+    margin-left: 300px;
+    margin-right: auto;
+    display:block;
+}
+ 
